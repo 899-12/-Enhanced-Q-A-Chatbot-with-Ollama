@@ -34,5 +34,5 @@ This project is a Q&A chatbot leveraging open-source LLMs powered by **Ollama**.
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/899-12/-Enhanced-Q-A-Chatbot-with-Ollama.git
+   
